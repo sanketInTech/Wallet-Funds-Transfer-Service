@@ -15,7 +15,6 @@ RupeeXfer is a high-performance, secure fund transfer API that implements bankin
 
 -  **Atomic Money Transfers** - ACID-compliant fund transfers with rollback support
 -  **Optimistic Locking** - Prevents double-spending in high-concurrency scenarios
--  **Immutable Transaction Ledger** - Tamper-proof record of all transactions
 -  **JWT Authentication** - Stateless, secure user authentication
 -  **Comprehensive API Docs** - Interactive documentation with Swagger UI
 -  **Docker Support** - Containerized deployment with Docker Compose
@@ -69,7 +68,7 @@ RupeeXfer is a high-performance, secure fund transfer API that implements bankin
 
 ##  Quickstart
 
-### Local Development (H2 Database)
+### Local Development (Database)
 
 ```bash
 # Clone the repository
