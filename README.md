@@ -9,7 +9,7 @@
 
 ##  Overview
 
-Rupee Transfer is a high-performance, Secure Payment API that implements banking-grade transaction management with ACID compliance. Built with Spring Boot 3 and Java 17, it demonstrates modern backend development practices including distributed transactions, optimistic locking, and JWT-based security.
+Rupee Transfer is a high-performance, Payment API that implements banking-grade transaction management with ACID compliance. Built with Spring Boot 3 and Java 17, it demonstrates modern backend development practices including distributed transactions, optimistic locking, and Spring security.
 
 ## Features
 
