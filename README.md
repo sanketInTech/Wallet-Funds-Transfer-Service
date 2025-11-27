@@ -33,7 +33,7 @@ Rupee Transfer is a high-performance, Payment API that implements banking-grade 
 └───────────────────────────────┬─────────────────────────────┘
                                 │
 ┌───────────────────────────────▼─────────────────────────────┐
-│                      RupeeXfer API (This Service)           │
+│                      Rupee Transfer API (This Service)      │
 │  ┌───────────────────────────────────────────────────────┐  │
 │  │                   REST Controllers                    │  │
 │  └───────────────┬───────────────────────┬───────────────┘  │
