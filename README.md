@@ -33,7 +33,7 @@ Wallet Funds Transfer Service is a high-performance, Payment API that implements
 └───────────────────────────────┬─────────────────────────────┘
                                 │
 ┌───────────────────────────────▼─────────────────────────────┐
-│                      Rupee Transfer API (This Service)      │
+│                 Wallet Funds Transfer Service               │
 │  ┌───────────────────────────────────────────────────────┐  │
 │  │                   REST Controllers                    │  │
 │  └───────────────┬───────────────────────┬───────────────┘  │
